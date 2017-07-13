@@ -5,7 +5,7 @@ Raspberry pi POS System
 Ver 1.0
 
 
-autorun POS.py
+Main Porgram is POS.py
 
 Display:Lcd 2x16
 
