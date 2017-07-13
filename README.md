@@ -15,7 +15,7 @@ Server: Storage Transacion in mysql use php
 
 and you will see the transaction
 
-[https:///Rantimind.000webhostapp.comaspberry/show_transaction.php](Link URL)
+https://antimind.000webhostapp.com/Raspberry/show_transaction.php[Link Text](Link URL)
 
 
 Contact 
