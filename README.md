@@ -20,4 +20,4 @@ and you will see the transaction
 
 Contact 
 
-[maximilician@gmail.com](Link URL)
+[maximilician@gmail.com](mailto:maximilician@gmail.com)
